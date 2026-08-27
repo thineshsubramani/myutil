@@ -6,6 +6,7 @@ Everything controlled by label and INI files in my GitHub repo (`Thinesh-Subrama
 
 ---
 ## Comments
+Keep this idea but I'm thinking even better way to organize my tools as single component
 I've just started and I'm still thinking of better way to design this as this will help reduce 90% of time performing cliche manual debugging lol
 
 ---
